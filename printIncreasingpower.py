@@ -7,4 +7,4 @@ def printIncreasingpower(x):
             break
         print(square,end = " ")
         power += 1
-printIncreasingpower(30)
+printIncreasingpower(10)
